@@ -16,8 +16,8 @@ const BotName = 'BOT ./LexusBot'; // Nama Bot Whatsapp
 const instagramlu = 'https://www.instagram.com/lxstore.aja/'; // Nama Instagramlu cok
 const whatsapplu = '0888-0675-6044'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/L0jifxElwo6B2QyxuabLtU'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/CxrUD2MnUv5KGko3CsW6DT'; // OFFICIAL GRUP LU 2
+const grupch1 = 'https://chat.whatsapp.com/KbDok230OGZLdVYLJ743vA'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/KbDok230OGZLdVYLJ743vA'; // OFFICIAL GRUP LU 2
 //
 const
 {
